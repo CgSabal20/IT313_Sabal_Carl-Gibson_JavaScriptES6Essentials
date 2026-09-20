@@ -1,0 +1,21 @@
+{
+  "name": "it313_sabal_carl-gibson_javascriptes6essentials",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "IT313 JavaScript ES6 Essentials Enrollment Eligibility Checker",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CgSabal20/IT313_Sabal_Carl-Gibson_JavaScriptES6Essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CgSabal20/IT313_Sabal_Carl-Gibson_JavaScriptES6Essentials/issues"
+  },
+  "homepage": "https://github.com/CgSabal20/IT313_Sabal_Carl-Gibson_JavaScriptES6Essentials#readme"
+}
